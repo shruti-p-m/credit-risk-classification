@@ -1,7 +1,7 @@
 # credit-risk-classification
 This challenge contains the Credit_Risk folder, which includes the data in lending_data.csv, and a Jupyter Notebook file called credit_risk_classification.ipynb, which creates a model based on the data. This challenge also contains an Analysis report, found below in the ReadMe.
 
-# Module 12 Report 
+# Module 20 Report 
 
 ## Overview of the Analysis
 
